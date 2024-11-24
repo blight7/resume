@@ -1,28 +1,28 @@
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f8f9fa;
-  }
-  
-  h1, h2 {
-    color: #007bff;
-  }
-  
-  nav .nav-link {
-    color: #fff !important;
-  }
-  
-  header {
-    background-color: #007bff;
-    color: white;
-    padding: 2rem 0;
-  }
-  
-  section {
-    background-color: #fff;
-    padding: 2rem;
-    margin-bottom: 1rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-  
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+h1, h2 {
+  color: #007bff;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
